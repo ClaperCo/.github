@@ -30,3 +30,11 @@
     <img alt="Bounties for Claper" src="https://console.algora.io/api/og/ClaperCo/bounties.png?p=0&status=open&theme=light">
   </picture>
 </a>
+
+## Rewarded contributors
+<a href="https://console.algora.io/org/ClaperCo/leaderboard">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/ClaperCo/leaderboard.png?p=0&theme=dark">
+    <img alt="Leaderboard of Claper" src="https://console.algora.io/api/og/ClaperCo/leaderboard.png?p=0&theme=light">
+  </picture>
+</a>
