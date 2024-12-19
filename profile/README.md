@@ -20,21 +20,3 @@
 
 ### Contributors Over Time
 [![GitHub Contributor Over Time](https://contributor-overtime-api.git-contributor.com/contributors-svg?chart=contributorOverTime&repo=ClaperCo/claper)](https://git-contributor.com?chart=contributorOverTime&repo=ClaperCo/claper)
-
-# Get paid by helping Claper
-
-## Open Bounties
-<a href="https://console.algora.io/org/ClaperCo/bounties?status=open">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/ClaperCo/bounties.png?p=0&status=open&theme=dark">
-    <img alt="Bounties for Claper" src="https://console.algora.io/api/og/ClaperCo/bounties.png?p=0&status=open&theme=light">
-  </picture>
-</a>
-
-## Rewarded contributors
-<a href="https://console.algora.io/org/ClaperCo/leaderboard">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/ClaperCo/leaderboard.png?p=0&theme=dark">
-    <img alt="Leaderboard of Claper" src="https://console.algora.io/api/og/ClaperCo/leaderboard.png?p=0&theme=light">
-  </picture>
-</a>
